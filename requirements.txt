@@ -1,0 +1,5 @@
+# requirements.txt
+# 201006
+# sample: https://github.com/binder-examples/requirements/blob/master/requirements.txt
+
+tagui==1.27.1
