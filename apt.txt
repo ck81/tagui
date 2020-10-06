@@ -2,4 +2,4 @@
 # 201007
 # https://mybinder.readthedocs.io/en/latest/config_files.html
 
-php7.3
+php
